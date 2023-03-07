@@ -1,9 +1,6 @@
 ### Hi there 👋
 <!-- mastodon verification -->
-<div style="display: none">
-  <a rel="me" href="https://norden.social/@mobergmann">Mastodon</a>
-  <a rel="me" href="https://osna.social/@mobergmann">Mastodon</a>
-</div>
+Have a look at my <a style="display: none" rel="me" href="https://osna.social/@mobergmann">Mastodon</a> Profile.
 
 <!--
 **mobergmann/mobergmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
